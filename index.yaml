@@ -3,7 +3,7 @@ entries:
   addons:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-17T04:14:17.885212983-05:00"
+    created: "2021-10-17T16:29:50.046290818-05:00"
     description: A Helm chart for Kubernetes
     digest: 573a3ced072630f30a20046a075a92d1a9f2f3d8aee1e9c8e88b1d3af1aeae45
     name: addons
@@ -14,7 +14,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-17T04:14:17.885736246-05:00"
+    created: "2021-10-17T16:29:50.046855985-05:00"
     description: A Helm chart for Kubernetes
     digest: 90d33a4a83ce711eb5f3d657ba631220894d2fc9d99e3f9f1f2cbbd09b097e81
     name: helm-chart-test
@@ -22,4 +22,15 @@ entries:
     urls:
     - https://johnlam90.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-17T04:14:17.884536559-05:00"
+  whereabouts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-17T16:29:50.04736665-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 0cf2e95cdc26a31c09d11fdaac95878e247ea77061c40f2162bcfbf8d2873c47
+    name: whereabouts
+    type: application
+    urls:
+    - https://johnlam90.github.io/helm-chart/whereabouts-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-17T16:29:50.045631592-05:00"
