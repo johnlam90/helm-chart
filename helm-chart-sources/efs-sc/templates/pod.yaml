@@ -14,7 +14,7 @@ spec:
 apiVersion: v1
 kind: Pod
 metadata:
-  name: efs-app--{{ .Values.cnf }}
+  name: efs-app-{{ .Values.cnf }}
 spec:
   containers:
     - name: app
