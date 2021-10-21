@@ -3,45 +3,56 @@ entries:
   addons:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T14:54:38.540681982-05:00"
+    created: "2021-10-21T18:29:54.529162607-05:00"
     description: A Helm chart for Kubernetes
     digest: 573a3ced072630f30a20046a075a92d1a9f2f3d8aee1e9c8e88b1d3af1aeae45
     name: addons
     type: application
     urls:
-    - https://johnlam90.github.io/helm-chart/addons-0.1.0.tgz
+    - https://mattiaperi.github.io/helm-chart/addons-0.1.0.tgz
     version: 0.1.0
   efs:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T14:54:38.541134047-05:00"
+    created: "2021-10-21T18:29:54.529577953-05:00"
     description: A Helm chart for Kubernetes
     digest: 51e9f184ed4d85497b2a477139da3804f27c609e555d63279d57646e7ad280df
     name: efs
     type: application
     urls:
-    - https://johnlam90.github.io/helm-chart/efs-0.1.0.tgz
+    - https://mattiaperi.github.io/helm-chart/efs-0.1.0.tgz
+    version: 0.1.0
+  efs-sc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-21T18:29:54.529984828-05:00"
+    description: A Helm chart for Kubernetes
+    digest: c6538f8ce21897f060fc403eb046435c750ca13d2a35a15bab617526900a04b2
+    name: efs-sc
+    type: application
+    urls:
+    - https://mattiaperi.github.io/helm-chart/efs-sc-0.1.0.tgz
     version: 0.1.0
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T14:54:38.541760644-05:00"
+    created: "2021-10-21T18:29:54.53053159-05:00"
     description: A Helm chart for Kubernetes
     digest: 90d33a4a83ce711eb5f3d657ba631220894d2fc9d99e3f9f1f2cbbd09b097e81
     name: helm-chart-test
     type: application
     urls:
-    - https://johnlam90.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
   whereabouts:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T14:54:38.542334769-05:00"
+    created: "2021-10-21T18:29:54.531001268-05:00"
     description: A Helm chart for Kubernetes
     digest: 0cf2e95cdc26a31c09d11fdaac95878e247ea77061c40f2162bcfbf8d2873c47
     name: whereabouts
     type: application
     urls:
-    - https://johnlam90.github.io/helm-chart/whereabouts-0.1.0.tgz
+    - https://mattiaperi.github.io/helm-chart/whereabouts-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-21T14:54:38.539910712-05:00"
+generated: "2021-10-21T18:29:54.528498693-05:00"
