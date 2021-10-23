@@ -3,7 +3,7 @@ entries:
   addons:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T18:36:02.093378411-05:00"
+    created: "2021-10-23T01:39:00.323478267-05:00"
     description: A Helm chart for Kubernetes
     digest: 573a3ced072630f30a20046a075a92d1a9f2f3d8aee1e9c8e88b1d3af1aeae45
     name: addons
@@ -11,10 +11,33 @@ entries:
     urls:
     - https://johnlam90.github.io/helm-chart/addons-0.1.0.tgz
     version: 0.1.0
+  aws-efs-csi-driver:
+  - apiVersion: v2
+    appVersion: 1.3.4
+    created: "2021-10-23T01:39:00.324361959-05:00"
+    description: A Helm chart for AWS EFS CSI Driver
+    digest: e7d6ba2be54ba27fb04c17a45dadd21008c83f25175e41cb52a3f2303b14d245
+    home: https://github.com/kubernetes-sigs/aws-efs-csi-driver
+    keywords:
+    - aws
+    - efs
+    - csi
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - name: leakingtapan
+      url: https://github.com/leakingtapan
+    - name: krmichel
+      url: https://github.com/krmichel
+    name: aws-efs-csi-driver
+    sources:
+    - https://github.com/kubernetes-sigs/aws-efs-csi-driver
+    urls:
+    - https://johnlam90.github.io/helm-chart/aws-efs-csi-driver-2.2.0.tgz
+    version: 2.2.0
   efs:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T18:36:02.093802405-05:00"
+    created: "2021-10-23T01:39:00.324834543-05:00"
     description: A Helm chart for Kubernetes
     digest: 51e9f184ed4d85497b2a477139da3804f27c609e555d63279d57646e7ad280df
     name: efs
@@ -25,7 +48,7 @@ entries:
   efs-sc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T18:36:02.094309679-05:00"
+    created: "2021-10-23T01:39:00.325254851-05:00"
     description: A Helm chart for Kubernetes
     digest: c6538f8ce21897f060fc403eb046435c750ca13d2a35a15bab617526900a04b2
     name: efs-sc
@@ -36,7 +59,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T18:36:02.094864194-05:00"
+    created: "2021-10-23T01:39:00.325830464-05:00"
     description: A Helm chart for Kubernetes
     digest: 90d33a4a83ce711eb5f3d657ba631220894d2fc9d99e3f9f1f2cbbd09b097e81
     name: helm-chart-test
@@ -47,7 +70,7 @@ entries:
   whereabouts:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-21T18:36:02.095355578-05:00"
+    created: "2021-10-23T01:39:00.326356006-05:00"
     description: A Helm chart for Kubernetes
     digest: 0cf2e95cdc26a31c09d11fdaac95878e247ea77061c40f2162bcfbf8d2873c47
     name: whereabouts
@@ -55,4 +78,4 @@ entries:
     urls:
     - https://johnlam90.github.io/helm-chart/whereabouts-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-21T18:36:02.092696717-05:00"
+generated: "2021-10-23T01:39:00.322846518-05:00"
