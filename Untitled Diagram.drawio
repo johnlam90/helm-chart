@@ -1,11 +1,11 @@
-<mxfile modified="2021-10-25T22:30:59.208Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="n3f_-c48sBC9EHXLbqxy" version="15.5.9" type="github">
+<mxfile modified="2021-10-25T22:35:24.607Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="OkSfQ4oKxyZd7IgL6MAG" version="15.5.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="946" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YyY5uu7W_DNtD2jvRkmI-5" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;AWS Cloud&lt;/b&gt;&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;verticalAlign=top;align=left;spacingLeft=30;dashed=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="190" y="220" width="1500" height="910" as="geometry" />
+        <mxCell id="TnK47Bgdui9Bng4RBpmz-3" value="AWS Cloud" style="outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;verticalAlign=top;align=left;spacingLeft=30;strokeWidth=2;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="184" y="222" width="1512" height="916" as="geometry" />
         </mxCell>
         <mxCell id="gU0P7Zyu-yOwMkjjiY7t-89" value="" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;verticalAlign=top;align=left;spacingLeft=30;dashed=0;labelBackgroundColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="258" y="379" width="1370" height="700" as="geometry" />
@@ -129,7 +129,7 @@
           <mxGeometry x="808.5" y="974.63" width="61.5" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="gU0P7Zyu-yOwMkjjiY7t-95" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58534;gradientColor=none;fontSize=20;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="661.5" width="69" height="72" as="geometry" />
+          <mxGeometry x="1596" y="661.5" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="gU0P7Zyu-yOwMkjjiY7t-96" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Courier New&quot;&gt;NAT-GW&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1579" y="737" width="90" height="30" as="geometry" />
