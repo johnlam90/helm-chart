@@ -1,6 +1,6 @@
-<mxfile modified="2021-10-25T23:02:43.258Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="4JqlbCrMprJKTLAjhy6b" version="15.5.9" type="github">
+<mxfile modified="2021-10-26T05:20:31.278Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="FUvpovZrrIBQnQvMYXPw" version="15.5.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1864" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
           <mxGeometry x="932" y="445" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="gU0P7Zyu-yOwMkjjiY7t-88" value="&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;Auto-Scaling Node Group&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="803" y="405" width="290" height="30" as="geometry" />
+          <mxGeometry x="825.5" y="405" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gU0P7Zyu-yOwMkjjiY7t-90" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;fontSize=17;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="230.5" y="360" width="79.5" height="54" as="geometry" />
