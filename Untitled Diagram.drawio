@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-26T05:20:31.278Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="FUvpovZrrIBQnQvMYXPw" version="15.5.9" type="github">
+<mxfile modified="2021-10-26T05:31:56.749Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="DxqtiBDwUN9-qT65V7uQ" version="15.5.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1581" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -341,6 +341,9 @@
         </mxCell>
         <mxCell id="TnK47Bgdui9Bng4RBpmz-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="796" y="990" width="27.08" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TnK47Bgdui9Bng4RBpmz-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png;" vertex="1" parent="1">
+          <mxGeometry x="823.08" y="1025.75" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
