@@ -3,9 +3,9 @@ entries:
   addons:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-08T06:56:28.200015-06:00"
+    created: "2023-03-08T07:05:43.756159-06:00"
     description: A Helm chart for Kubernetes
-    digest: 573a3ced072630f30a20046a075a92d1a9f2f3d8aee1e9c8e88b1d3af1aeae45
+    digest: b504dbad676b24d2f6e8134f62fae6cdb34849bf1bc461706f22db0894d733d1
     name: addons
     type: application
     urls:
@@ -18,9 +18,9 @@ entries:
           description: Custom controller.updateStrategy to set controller deployment strategy.
     apiVersion: v2
     appVersion: 1.4.0
-    created: "2023-03-08T06:56:28.200838-06:00"
+    created: "2023-03-08T07:05:43.756858-06:00"
     description: A Helm chart for AWS EBS CSI Driver
-    digest: 077ec64bcc13cbd888dcb018fa5714f2ac503fbb1854a6b62407bdd6f020faae
+    digest: f59edb5ebe9596ac57f40ded29b87f751e7db332395535ffc3a71aa5995651b3
     home: https://github.com/kubernetes-sigs/aws-ebs-csi-driver
     keywords:
     - aws
@@ -41,9 +41,9 @@ entries:
   aws-efs-csi-driver:
   - apiVersion: v2
     appVersion: 1.3.4
-    created: "2023-03-08T06:56:28.201298-06:00"
+    created: "2023-03-08T07:05:43.757413-06:00"
     description: A Helm chart for AWS EFS CSI Driver
-    digest: e7d6ba2be54ba27fb04c17a45dadd21008c83f25175e41cb52a3f2303b14d245
+    digest: f6338ce8b11c1b1ec1b580aa051ee68007d451fd5f28f973ef1121364fb7fc2b
     home: https://github.com/kubernetes-sigs/aws-efs-csi-driver
     keywords:
     - aws
@@ -62,15 +62,10 @@ entries:
     - https://johnlam90.github.io/helm-chart/aws-efs-csi-driver-2.2.0.tgz
     version: 2.2.0
   cmm-operator-k8s:
-  - annotations:
-      charts.openshift.io/archs: x86_64
-      charts.openshift.io/name: Nokia CMM
-      charts.openshift.io/provider: Nokia
-      charts.openshift.io/supportURL: https://github.com/nokiacmm/helm-chart
-    apiVersion: v2
-    created: "2023-03-08T06:56:28.206271-06:00"
+  - apiVersion: v2
+    created: "2023-03-08T07:05:43.761429-06:00"
     description: A Helm chart for CMM in Kubernetes using operators
-    digest: 6657ec7bf06f289a860b5df92ee44b42603c1a9106f2a9e68de17dd7998b3668
+    digest: 6fb55bc0cb5728feed160cfb90cff390cc79566605985f80c2400f4e8d03cf7d
     icon: https://www.nokia.com/chart-icon.png
     name: cmm-operator-k8s
     type: application
@@ -80,9 +75,9 @@ entries:
   efs:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-08T06:56:28.206618-06:00"
+    created: "2023-03-08T07:05:43.761806-06:00"
     description: A Helm chart for Kubernetes
-    digest: 51e9f184ed4d85497b2a477139da3804f27c609e555d63279d57646e7ad280df
+    digest: fabb756e297ba1e02b0f16a042a569aa8afe64428862e4cd0bfba961990f4ac2
     name: efs
     type: application
     urls:
@@ -91,9 +86,9 @@ entries:
   efs-sc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-08T06:56:28.20697-06:00"
+    created: "2023-03-08T07:05:43.762152-06:00"
     description: A Helm chart for Kubernetes
-    digest: c6538f8ce21897f060fc403eb046435c750ca13d2a35a15bab617526900a04b2
+    digest: 213e32cb3f12cd70fe4326b95739c560d6edff2fc97bf597956fc1ed53894fa7
     name: efs-sc
     type: application
     urls:
@@ -102,9 +97,9 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-08T06:56:28.207468-06:00"
+    created: "2023-03-08T07:05:43.76253-06:00"
     description: A Helm chart for Kubernetes
-    digest: 90d33a4a83ce711eb5f3d657ba631220894d2fc9d99e3f9f1f2cbbd09b097e81
+    digest: 95b4fd00952517f3e2636f030c9bb40e268ae5a7e65a1346a0392c37bcd672c0
     name: helm-chart-test
     type: application
     urls:
@@ -113,12 +108,12 @@ entries:
   whereabouts:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-08T06:56:28.207884-06:00"
+    created: "2023-03-08T07:05:43.762889-06:00"
     description: A Helm chart for Kubernetes
-    digest: 0cf2e95cdc26a31c09d11fdaac95878e247ea77061c40f2162bcfbf8d2873c47
+    digest: fca2c98bd9f17b43b56fa127e2df53cd321f5b8a1fa593ff3f870e60a943ca9a
     name: whereabouts
     type: application
     urls:
     - https://johnlam90.github.io/helm-chart/whereabouts-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-08T06:56:28.199195-06:00"
+generated: "2023-03-08T07:05:43.755378-06:00"
